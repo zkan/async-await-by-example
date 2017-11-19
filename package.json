@@ -1,0 +1,8 @@
+{
+  "name": "async-await-by-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:zkan/async-await-by-example.git",
+  "author": "zkan <kan@prontomarketing.com>",
+  "license": "MIT"
+}
